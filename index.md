@@ -1,18 +1,18 @@
 # Support Infomation
-# Sun OF Dragon City
+# War Song of Pride
 
 
 If you have any questions, please contact us at the email address below and we will answer you as soon as possible.
 
-Support email ：SunOFDragonCity@yeah.net
+Support email ：WarSongofPride@yeah.net
 
 
 
 ## About
 
-**Sun OF Dragon City** 
+**War Song of Pride** 
 
-Sun OF Dragon City Start here and try this simple game.
+War Song of Pride Start here and try this simple game.
 
 Gameplay: Find the same characters and click on them to complete a elimination. Eliminate all the same characters in the game and pass the level.
 
